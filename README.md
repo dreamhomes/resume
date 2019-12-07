@@ -1,2 +1,2 @@
 # resume
-A repository to show my resume html files.
+A repository to save my resume html files.
